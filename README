@@ -1,0 +1,7 @@
+keylogger mc security challenge
+
+this is a keylogger that works over tcp
+
+go mod tidy
+
+start the server and client from the server folder 
